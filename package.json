@@ -1,0 +1,16 @@
+{
+  "name": "automationstore",
+  "version": "1.0.0",
+  "description": "Storefront automation",
+  "main": "npm",
+  "scripts": : {
+    "report": "newman run  Storefront.postman_collection.json -e Storefront.postman_environment.json -r htmlextra --reporter-htmlextra-title "Storefront Report""
+}
+  "repository": {
+    "type": "git",
+    "url": "\"script\" : {"
+  },
+  "keywords": npm run report
+  "author": "Sundaram",
+  "license": "MIT"
+}
